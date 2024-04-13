@@ -7,7 +7,7 @@ if (name === "Joxongir" ){
 
 }else if (name === "Abdujalil"){
     alert("Abdujalil abdujalil чо там хом картишка ачиган чириган карчика")
-}else if (name === "Sevar" ){
+}else if (name === "Sevara" ){
     alert ("Sevar sevara Чо там lattaeva")
 }else if (name === "Manzura"){
     alert("Onajonim mani yumologim mani")
@@ -23,7 +23,7 @@ else if (name === "joxongir" ){
 
 }else if (name === "abdujalil"){
     alert("Abdujalil abdujalil чо там хом картишка ачиган чириган карчика")
-}else if (name === "sevar" ){
+}else if (name === "sevara" ){
     alert ("Sevar sevara Чо там lattaeva")
 }else if (name === "manzura"){
     alert("Onajonim mani yumologim mani")
