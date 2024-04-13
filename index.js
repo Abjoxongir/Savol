@@ -1,34 +1,38 @@
-let a = "Mol"
-let a1 = "musuk"
-let a2 = "it"
-let a3 = "ot"
-let a4 = "baliq"
-let a5 = "touq"
-let a6 = "sigir"
+let name = prompt("Ismingizni kiriting")
+if (name === "Joxongir" ){
+    alert("Joxa joxa чо там друг мой")
+    
+}else if (name === "Zafar"){
+    alert("Zafar zafar чо там чо там саттор али")
 
-let b =  "  ot  eydi"
-let b1 =  " gosht eydi"
-let b2 =  " boq eydi"
-let b3 =  " hashak eydi"
-let b4 =  " chualchang eydi"
-let b5 =  " don eydi"
-let b6 =  " ot hashak eydi"
+}else if (name === "Abdujalil"){
+    alert("Abdujalil abdujalil чо там хом картишка ачиган чириган карчика")
+}else if (name === "Sevar" ){
+    alert ("Sevar sevara Чо там lattaeva")
+}else if (name === "Manzura"){
+    alert("Onajonim mani yumologim mani")
+
+}else if (name === "Oybek"){
+    alert("Papitto senerito")
+}
+else if (name === "joxongir" ){
+    alert("Joxa joxa чо там друг мой")
+    
+}else if (name === "zafar"){
+    alert("Zafar zafar чо там чо там саттор али")
+
+}else if (name === "abdujalil"){
+    alert("Abdujalil abdujalil чо там хом картишка ачиган чириган карчика")
+}else if (name === "sevar" ){
+    alert ("Sevar sevara Чо там lattaeva")
+}else if (name === "manzura"){
+    alert("Onajonim mani yumologim mani")
+
+}else if (name === "oybek"){
+    alert("Papitto senerito")
+}
 
 
-
-let Name = prompt("Uy hayvonini kiriting")
-if (Name === "mol"){
-    alert(a+" "+b)
-}else if (Name === "mushuk"){
- alert(a1+" "+b1)
-}else if (Name === "it"){
-alert(a2+" "+b2)
-}else if (Name === "ot"){
-    alert(a3+" "+b3)
-}else if (Name === "baliq"){
-    alert(a4+" "+b4)
-}else if (Name === "touq"){
-    alert(a5+" "+b5)
-}else if (Name === "sigir"){
-    alert(a6+" "+b6)
+else{
+    alert("КИМ САН ООООО!!!")
 }
