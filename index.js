@@ -1,0 +1,6 @@
+let name = prompt("User name ")
+alert(name)
+let name3 = prompt ("name")
+alert(name3)
+let name2 = confirm (`${name +" "+ name3}`)
+alert (name2 )
