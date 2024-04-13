@@ -1,12 +1,23 @@
-let i = Number(prompt("2*2=?"))
-let i2 = Number(prompt("4*4=?"))
-let i3 = Number(prompt("5*8=?"))
-let i4 = Number(prompt("7*6=?"))
-let i5 = Number(prompt("5*3=?"))
-let i6 = Number(prompt("5*2=?"))
-if ((i === 4 && i2 === 16 && i3 === 40) || (i4 === 42 && i5 === 15 && i6 === 10)){
-    alert("Yaxshi ooo bola")
-document.write(`<img src="гф.gif"/>`)
+let Username = prompt("User name wot  due du")
+let Poswords = Number(prompt("User posword wot due du"))
+let age = Number(prompt("User age wot due du"))
+
+if (Username === "Joxa" && Poswords <=1000 && age <=10 ){
+    alert("Joxa Joxa Чо том Чо там как там")
+    confirm ('это правда Joxa joxa ?')
+    
+}else if (Username === "Zafar"&& (Poswords <= 10000 || age <=20)){
+    alert("Zapulo Zapush чо там чо там Нигер")
+    confirm("Zapuch Papush тошнами бу йо тошнамасми бу")
+}else if (Username === "Sevara" && (Poswords <= 10000 || age <=5)){
+    alert("Sevara chevara sattoriva lataeva sembabu aaaa")
+    confirm("Sevara lataeva toshna senba bu yo senbasmabu")
+}else if (Username === "Abdujalil"&& (Poswords<= 100000 || age <= 15) ){
+alert("Abujalil senba bu eee ")
+confirm("Ebe satorali ma bu")
 }else {
-    alert ("uchi zanova tablisu")
+    alert("KIMSAN SAN OOOOOO")
+    confirm("IT BSEN SENOOO")
+    confirm("YO ESHAK BSEN SENOOO")
+    confirm("TOSHNABA")
 }
